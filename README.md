@@ -21,6 +21,6 @@
 print("Hello World")
 ```
 
-[스파르타코딩클럽 사이트로 연결](https://spartacodingclub.kr/)
+[네이버 사이트로 연결](https://www.naver.com/)
 
-![이미지설명-옆에는 이미지url 들어가요](https://lh3.googleusercontent.com/lYhhH_bEYC_rRd1RcYDIbqMNG3byqPiqeKXQoNjneNAdbD9xyNVhq7BmZIpwASKtkp6ZYRMU01Co2oyl8tfJceE0ZFcQYrKKd9YBu9EqfFZQw1ytT8KM)
+![이미지설명-옆에는 이미지url 들어가요](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20151021_61%2Fgonggamcom_14454090756396FPUJ_JPEG%2F%25C4%25B8%25C3%25B3.JPG&type=sc960_832)
